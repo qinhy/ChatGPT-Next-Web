@@ -660,3 +660,7 @@ export function JsonPreviewer(props: {
     </>
   );
 }
+
+function refreshPreview() {
+  throw new Error("Function not implemented.");
+}
