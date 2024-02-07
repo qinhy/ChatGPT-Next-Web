@@ -397,9 +397,9 @@ const sk: PartialLocaleType = {
   Plugin: {
     Name: "Plugin",
   },
-  FineTuned: {
-    Sysmessage: "Ste asistent, ktorý",
-  },
+  // FineTuned: {
+  //   Sysmessage: "Ste asistent, ktorý",
+  // },
   Mask: {
     Name: "Maska",
     Page: {
