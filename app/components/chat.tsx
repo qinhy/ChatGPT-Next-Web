@@ -85,6 +85,7 @@ import {
   LAST_INPUT_KEY,
   Path,
   REQUEST_TIMEOUT_MS,
+  UNFINISHED_INPUT,
 } from "../constant";
 import { Avatar } from "./emoji";
 import { ContextPrompts, MaskAvatar, MaskConfig } from "./mask";
